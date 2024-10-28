@@ -1,0 +1,14 @@
+D:\donetProject\calculatrice\bin\Debug\net8.0\calculatrice.exe
+D:\donetProject\calculatrice\bin\Debug\net8.0\calculatrice.deps.json
+D:\donetProject\calculatrice\bin\Debug\net8.0\calculatrice.runtimeconfig.json
+D:\donetProject\calculatrice\bin\Debug\net8.0\calculatrice.dll
+D:\donetProject\calculatrice\bin\Debug\net8.0\calculatrice.pdb
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.AssemblyInfoInputs.cache
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.AssemblyInfo.cs
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.csproj.CoreCompileInputs.cache
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.dll
+D:\donetProject\calculatrice\obj\Debug\net8.0\refint\calculatrice.dll
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.pdb
+D:\donetProject\calculatrice\obj\Debug\net8.0\calculatrice.genruntimeconfig.cache
+D:\donetProject\calculatrice\obj\Debug\net8.0\ref\calculatrice.dll
